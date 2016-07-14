@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="<?=base_url();?>/assets/css/bootstrap-timepicker.min.css" />
 
 <body>
-<!-- Preloader -->
+<!-- Preloader test -->
 <div id="preloader">
     <div id="status"><i class="fa fa-spinner fa-spin"></i></div>
 </div>
