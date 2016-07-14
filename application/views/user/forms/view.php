@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="<?=base_url();?>/assets/css/bootstrap-timepicker.min.css" />
 
 <body>
-<!-- Preloader test -->
+<!-- Preloader -->
 <div id="preloader">
     <div id="status"><i class="fa fa-spinner fa-spin"></i></div>
 </div>
@@ -16,7 +16,7 @@
 <section>
 
    <?php 
-		$this->load->view('user/common/menu');
+		$this->load->view('user/common/menu1');
     ?>
 
   <div class="mainpanel">
